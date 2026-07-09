@@ -1,4 +1,4 @@
-import Spinner from './Spinner';
+import Spinner from '../ui/Spinner'
 
 const Button = ({
   children,
@@ -20,4 +20,4 @@ const Button = ({
   </button>
 )
 
-export default Button;
+export default Button

@@ -5,4 +5,4 @@ const Badge = ({ children, variant = 'neutral', icon }) => (
   </span>
 )
 
-export default Badge;
+export default Badge
